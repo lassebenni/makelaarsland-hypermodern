@@ -1,0 +1,11 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Lasse Benninga",
+  "email": "lassebenninga@gmail.com",
+  "friendly_name": "Makelaarsland Hypermodern",
+  "github_user": "lassebenni",
+  "license": "MIT",
+  "package_name": "makelaarsland_hypermodern",
+  "project_name": "makelaarsland-hypermodern",
+  "version": "0.0.1"
+}
